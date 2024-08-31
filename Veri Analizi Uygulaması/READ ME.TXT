@@ -1,0 +1,3 @@
+Süleyman Demirel Üniversitesi öğrenci topluluklarından Sanayi ve Kalite Topluluğu'nun yönetim kurulu üyesi olarak, etkinliklere gelen katılımcıların sınıf ve bölüm bilgilerini analiz eden, hangi bölümlerden ve hangi sınıflardan kaç katılımcının geldiğini hesaplayan ve bu değerleri ekrana gönderen bir veri analizi uygulaması hazırladım.
+
+As a board member of the Industry and Quality Community, one of the student communities of Suleyman Demirel University, I prepared a data analysis application that analyzes the class and department information of the participants who come to the events, calculates how many participants come from which departments and classes, and sends these values ​​to the screen.
